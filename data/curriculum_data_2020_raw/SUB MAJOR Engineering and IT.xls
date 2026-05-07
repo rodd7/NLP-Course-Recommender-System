@@ -1,0 +1,690 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Staff Number</Author>
+  <LastAuthor>Anthony Vu</LastAuthor>
+  <LastSaved>2022-06-03T12:48:14Z</LastSaved>
+  <Company>UTS: CIS - Subject Outline</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowIconic/>
+  <WindowHeight>12165</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="sub major Chris Wong 3">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="103" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="87.75"/>
+   <Column ss:Width="50.25" ss:Span="2"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SPK code</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SPK version</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Status (Stage)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ08188</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major is only available to students in the Bachelor of Science in Information Technology (C10148), Bachelor of Science in Games Development (C10229), Bachelor of Science in Information Technology Diploma in Information Technology Professional Practice (C10345), Bachelor of Science in Information Technology Bachelor of Arts in International Studies (C10239), and Bachelor of Science in Information Technology Bachelor of Creative Intelligence and Innovation (C10327).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10099</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10104</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The Biomedical Engineering sub major introduces application of the principles and problem-solving techniques of engineering to medicine and biology. As evident throughout healthcare, from diagnosis and analysis to clinical treatment and recovery, biomedical engineering has entered the public conscience though the proliferation of implantable medical and assistive devices, to more futuristic technologies such as microfluidics, the 3-D printing of biological organs, and sequencing technologies for clinical applications. The sub major facilitates students' understanding of biomedical engineering in industry, hospitals, research facilities, teaching and government regulatory agencies.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ08157</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major is only available to students in the Bachelor of Science in Information Technology (C10148), Bachelor of Science in Information Technology Diploma in Information Technology Professional Practice (C10345), Bachelor of Design in Architecture (C10004), Bachelor of Property Economics (C10007), Bachelor of Design in Industrial Design (C10053), Bachelor of Design in Fashion and Textiles (C10055), Bachelor of Design in Interior Design (C10057), Bachelor of Design in Visual Communication (C10059), Bachelor of Construction (C10214), Bachelor of Science in Games Development (C10229), Bachelor of Science in Information Technology Bachelor of Arts in International Studies (C10239), and Bachelor of Science in Information Technology Bachelor of Creative Intelligence and Innovation (C10327).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10109</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major provides students with the theoretical and practical knowledge of the way in which information systems contribute to effective business. Students learn the processes, tools and technologies required to transform data into information and information into knowledge so as to enable sound business decision-making. Learn how to apply business intelligence techniques to extract information on market trends and behaviour, effectively analyse and utilise data, and create business intelligence systems to support decision-making.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10131</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">Computer science covers a wide range of areas of knowledge to do with the creation of computer programs, the transmission of digital information over networks and the interaction between humans and computers. This sub-major allows students of a variety of degrees to add two two-subject specialisations in particular areas of computer science of their choosing.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10131</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">Computer science covers a wide range of areas of knowledge to do with the creation of computer programs, the transmission of digital information over networks and the interaction between humans and computers. This sub-major allows students of a variety of degrees to add two two-subject specialisations in particular areas of computer science of their choosing.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10094</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10093</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10112</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The Cyber Security sub major equips students with cyber security principles, methodologies and technologies from a technical and management perspective. Students undertaking this program will work through a systematic way of learning, acquiring knowledge vastly required in the field of cybersecurity. Such knowledge will prepare them to handle various challenges in current and future business practices. These skills are essential for professional profiles as diverse as IT system administrators, system developers, and IT managers and prepare students to select a project based subject, where students learn the practical skills necessary to evaluate and develop secure solutions as well as a fundamental understanding of security, privacy and trust.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03062</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10108</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The Data Analytics sub major provides an introduction to data analytics and data mining methods and their application in practice across many fields of business, industry and science to discover new information and knowledge. Data analytics is an emerging and rapidly expanding area where mathematics and statistical methods interact with powerful information technologies to improve the flow and understanding of massive amounts of data for a business. Students learn to apply state-of-the-art algorithms to their professional practice. Industry experiences, real-world projects and self-directed study, equip graduates with an understanding of the potential of analytics to transform practice.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03066</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10124</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03036</Data></Cell>
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">In this sub-major students undertake 24 credit points from the corresponding major (MAJ03444).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03064</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03068</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10113</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10107</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The Interaction Design sub major develops students' understanding of human–computer interaction (HCI) and interaction design principles, including the main concepts, tools and techniques available to build human-centred systems. Students hone their skills in optimising the user experience through responding to real-world problems, designing technology solutions, prototype devices and working on digital media projects. Students work in a collaborative and self directed environment designing interactive digital products, digital environments, systems, and services introducing them to the discipline and giving them the potential to transition into various jobs under the interaction design umbrella.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10110</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The Internetworking sub major allows students to develop multiple skills in enterprise-scale networking, according to interest and elective choices, for example, switching and routing, systems programming, network management, network security, mobility, cloud computing and web development. It will help graduates prepare for careers as network and/or cloud engineers.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10102</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The Logistics sub major explores the concepts of Complexity and Systems Thinking. Every organisation provides value to its customer in order to survive in the current business environment. This value is an outcome of numerous processes that form the operations of an organisation. It is crucial for business success to design sound operations that are well maintained and continually improved, are supported and be able to be used reliably, consistent with operational needs. Students are encouraged to consider the applicability of concepts and techniques used to their own professional experience in system acquisition and support.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10106</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The Managing Enterprises sub majors equips students for enterprise management roles by upskilling in a tool-kit of finance and enterprise evaluation, management practices and their application to the successful performance of engineering projects and engineering works, quality management systems, based on current trends in quality planning and analysis tools and techniques, and an understanding of the role of engineering and technical managers as responsible leaders in organisations. It focuses on the need to integrate the tool-kit of skills in professional practice through interaction with other people, not only subordinates and supervisors, but managers and leaders within the wider organisation.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10088</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03065</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10103</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The Project Leadership sub major has been specifically designed to introduce the breadth of skills needed for successfully leading at the interface between engineering, technology and management. It is an opportunity for engineers, technical specialists and non-technical professionals to build their managerial skills and integrate their business and technical knowledge. The coursework introduces contemporary professional, societal and environmental contexts of projects and develops a range of management capabilities for effective leadership.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10100</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The Quality Management sub major equips students to respond to the needs of organisations to provide value to its customer in order to survive in the current business environment. This value is an outcome of numerous processes that form the operations of an organisation. It is crucial for business success to design sound operations that are well maintained and continually improved, are supported and be able to be used reliably, consistent with operational needs. Students learn and practice how to design, develop and implement operational management systems including the quality, environmental, safety, and risk management systems and how to achieve certification of the operational management systems according to the Australian and International Standards (ASNZS and ISO).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03063</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03067</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03431</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03430</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10111</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The Software Development sub major explores current trends and challenges in the development and practice of enterprise architecture. In small teams, students apply contemporary enterprise architecture practices to architecture project work. Students learn to integrate and align different enterprise architecture layers to better support business goals and objectives, and use of information systems in generating business value for organisations. It deals with the different types of enterprise information requirements, application of information systems to business problems, and recent developments and technologies in the marketplace. Emphasis is on organisational strategies for information systems, mobile, cloud and social computing, and design activities including working in design teams. A number of subjects are geared to provide real-world exposure to the students.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03432</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10101</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10105</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The Systems Management sub major equips students with a systems thinking mindset and tool kit for systems design, risk assessment and management of complex systems over their uuseful life. This sub major introduces the basic concepts of complex systems theory and systems thinking, innovation and technology management and provides students with the fundamental theoretical and practical knowledge to analyse and design innovation processes and risk evaluation. In delivering projects, students evaluate and apply diverse quantitative and qualitative tools to understand and address the complexity and interplay of different components of complex systems.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10065</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03056</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03053</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03055</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03057</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03047</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10053</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03048</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ02064</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">In the Business Information Systems Management sub-major students undertake 24 credit points from the corresponding major (MAJ02080).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10069</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ02036</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major provides students with theoretical and practical knowledge of the way in which information systems contribute to effective business. The electives provide a closer look at a variety of key aspects of information systems development and use.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10054</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10091</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10058</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ02066</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The subjects in this sub-major provide the theoretical and practical knowledge required to understand and build modern 3D computer graphics applications and games. This knowledge is applied to building a ray tracer, producing a 3D computer animation, designing and developing simple computer games, and optionally carrying out a games and graphics project. Students must be competent in programming with C++ or otherwise have completed 31251 Data Structures and Algorithms. Students enrolled in the Bachelor of Science in Games Development (C10229) have limited subject choice due to overlap with the core component of their course and are required to submit an eRequest to add this sub-major to their study plan.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03034</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03042</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03041</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03043</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10071</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ02065</Data></Cell>
+    <Cell><Data ss:Type="String">4</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">In this sub-major students undertake 24 credit points from the corresponding major (MAJ02081).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ01010</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ08159</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major is only available to students in the Bachelor of Science in Information Technology (C10148), Bachelor of Science in Games Development (C10229), Bachelor of Science in Information Technology Diploma in Information Technology Professional Practice (C10345), Bachelor of Science in Information Technology Bachelor of Arts in International Studies (C10239), and Bachelor of Science in Information Technology Bachelor of Creative Intelligence and Innovation (C10327).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ08075</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major is designed for students who have a technical background or a keen interest in technology and therefore a strong alignment with analytical approaches. The ability to understand both management and technology is increasingly valued by modern enterprises. As society continues to become more and more technology dependent it is clear that those who can effectively manage technology and leading technical professionals are well suited for leadership positions.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03429</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10059</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10055</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ02037</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major provides a general understanding of the main aspects of the IT field, from a slightly more technical perspective than SMJ02036. Students gain an appreciation of the complexity of IT development and the many possibilities for future uses of IT in business.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ02059</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ02038</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major is designed for students who have an information technology background or a keen interest in information technology. It offers the participant either a platform entry for those with a non-IT background or a more specialised entry for those with an IT background. The innovative programs cover growth areas such as computer graphics and gaming, data mining, e-business technology, human-centred design, interactive multimedia, internetworking and strategic IT management.The ability to understand both management and technology is increasingly valued by modern enterprises, and as society continues to become more and more technology dependent it is clear those who have effective knowledge and can manage technology are well suited for leadership positions; via this sub-major participants have the opportunity to acquire knowledge, strategies and skills that cover the applications and management of technology.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03058</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ02067</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ02067</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10072</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ08160</Data></Cell>
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major is only available to students in the Bachelor of Science in Information Technology (C10148).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10090</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10089</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10070</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ09040</Data></Cell>
+    <Cell><Data ss:Type="String">7</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major is only available to students in the Bachelor of Science in Information Technology (C10148), Bachelor of Science in Games Development (C10229), Bachelor of Science in Information Technology Diploma in Information Technology Professional Practice (C10345), Bachelor of Science in Information Technology Bachelor of Arts in International Studies (C10239), and Bachelor of Science in Information Technology Bachelor of Creative Intelligence and Innovation (C10327).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10092</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03060</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10061</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03049</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03050</Data></Cell>
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03051</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10049</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major gives students the opportunity to master both theoretical and practical aspect of modern security technologies and practices. It includes security fundamentals, network security, digital forensics, mobile networking, network planning and management.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10048</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major gives students the opportunity to master both theoretical and practical aspect of modern security technologies and practices. It includes security fundamentals, network security, digital forensics, mobile networking, network planning and management.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10050</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major gives students the opportunity to master both theoretical and practical aspect of modern security technologies and practices. It includes security fundamentals, network security, digital forensics, mobile networking, network planning and management.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10051</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major gives students the opportunity to master both theoretical and practical aspects of modern security technologies and practices. It includes security fundamentals, network security, digital forensics, as well as applying security skills in devices such as routers and servers.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03037</Data></Cell>
+    <Cell><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">In this sub-major students undertake 24 credit points from the corresponding major (MAJ03445).</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ01011</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">This sub-major is concerned with the application of mathematical techniques to provide decision support for industry and commerce.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10062</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ01012</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10123</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">The Scientific Design sub major is suitable for students from science and non-science backgrounds who seek to develop skills needed to be prepared for a range of professional and academic pathways in science. The sub major facilitates understanding of a logical framework for conducting and assessing scientific research, from applying statistical tools to experimental data to drawing inferences and conclusions from this analysis, professional science communication and ethical considerations. Applying these skills to a diverse range of scientific applications is essential for all those pursuing a career in science. This sub major aims to impart an understanding of the concept of the 'scientific method', necessary for all students destined for a research, research management, research training or other science-oriented career, and professionals dealing with scientific data and communicating scientific ideas to varied audiences.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10073</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03052</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03039</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03038</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03040</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10063</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ02015</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10056</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03054</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03059</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03045</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03044</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ03046</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">SMJ10066</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>82</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
