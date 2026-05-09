@@ -12,7 +12,7 @@
 | Project Ended | Nov '24 |
 | Documentation updated | May '26 |
 
-![](https://vbr.nathanchung.dev/badge?page_id=NLP-Course-Recommender-System&color=0f4beb&style=for-the-badge&logo=Github&hit=false)
+![](https://vbr.nathanchung.dev/badge?page_id=NLP-Course-Recommender-System&text=rodd7/NLP_Course_Recommender_System&color=0f4beb&style=for-the-badge&logo=Github&hit=true)
 
 ## Table of Contents
  
