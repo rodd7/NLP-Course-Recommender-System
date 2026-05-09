@@ -79,19 +79,44 @@ After all the data was consolidated in the backend, the next stage was to embed 
 
 The text-embedding-3-large model was eventually selected for this phase of the project due to several advantages over its alternatives, one feature mainly being its embedding dimensionality of 3072, allowing for greater expressiveness and the ability to capture more semantic information without any array size limitations. Additionally, favourable features such as the max tokens allow for the processing of naturally more extensive subject descriptions without truncation, and increased classification ratings are essential for accurately matching subjects to user queries and filtering relevant results. Text-embedding-ada-002 was another considered choice with slightly scoring less than text-embedding-3-large, however, the dimensionality was an essential deciding factor, along with its costs not being much less than the $0.13 USD per 1 million tokens to embed.
 
+
 ```mermaid
-flowchart TD
+    flowchart LR
+
     %% Input Classes
-    CS["Class: Subject"]
-    CRS["Class: SubjectRecommendedYear"]
+    CS["Class::Subject"]
+    CRS["Class::SubjectRecommendedYear"]
 
     %% mongoimport
     CS -->|csv| MI[mongoimport]
     CRS -->|csv| MI
     MI --> DB[(MongoDB Atlas Database)]
 
+    %% SubjectTags
+    subgraph STG ["SubjectTags"]
+        SON["SubjectOrganisationalName"]
+        SAV["subjectAvailability"]
+        SRT["subjectResultType"]
+        SCP["subjectCP"]
+    end
+
+    DB --> STG
+
+    %% seperated now should be linked by box
+    SON --> FSN["Faculty/school names"]
+    SAV --> AT["Assessment types"]
+    SAV --> LMT["Learning mode types"]
+    SRT --> SBT["Subject Types"]
+    SCP --> CPT["Credit points"]
+
+    SEV["SubjectEmbedding (vectorised)"] --> |add to database| DB
+    EMB["text-embedding-3-large (OpenAI)"] --> |vectorise| SEV
+    EMB --> |vectorise| UQV["User Query Vector"]
+    UQ["User Query"] --> UQV
+    UQV --> |aggregate| SI["Search Index"]
+    DB --> |mappings| SI
+
     %% SubjectEmbedding fields concatenated
-    DB -->|concatenate| SE
 
     subgraph SE ["SubjectEmbedding"]
         SD["SubjectDescription"]
@@ -102,20 +127,13 @@ flowchart TD
         SON["SubjectOrganisationalName"]
     end
 
-    %% Vectorisation pipeline
-    SE -->|ingest| EMB["text-embedding-3-large\n(OpenAI Embedding Model)"]
-    EMB -->|vectorise| SEV["SubjectEmbedding (vectorised)"]
-    SEV -->|add to database| DB
-    DB -->|store| SEV
+    DB -->|concatenate| SE
 
-    %% Search Index
-    SEV --> SI[Search Index]
-
-    %% TF-IDF Tags
-    SE -->|TF-IDF| DT
-
-    subgraph DT ["DescriptiveTags"]
+    subgraph DT ["Descriptive Tags"]
+        EMPTY["|Miscellaneous|"]
     end
+
+    SE --> |TF-IDF| DT
 
     subgraph CT ["ContextTags"]
         SKL["Skills Learned"]
@@ -123,37 +141,12 @@ flowchart TD
         CP["Career pathways"]
     end
 
-    DT --> CT
-
-    %% Fine-tuning
-    CT -->|Prompt| GPT["gpt-3.5-turbo"]
-    OFT["OpenAI Fine-Tuning Model"] --> GPT
-
-    %% SubjectTags
-    DB --> STG
-
-    subgraph STG ["SubjectTags"]
-        SON2["SubjectOrganisationalName"]
-        SAV["subjectAvailability"]
-        SAV["subjectAvailability"]
-        SRT["subjectResultType"]
-        SCP["subjectCP"]
-    end
-
-    %% seperated now should be linked by box
-    SON2 -->|Faculty/school names| FSN["Faculty/school names"]
-    SAV -->|Assessment types| AT["Assessment types"]
-    SAV --> LMT["Learning mode types"]
-    SRT --> SBT["Subject Types"]
-    SCP -->|Subject types| CPT["Credit points"]
+    CT --> |store| DB
+    CT --> |prompt| GPT["GPT-3.5-turbo"]
 
 
-    %% User Query flow
-    UQ["User Query"] -->|vectorise| EMB
-    EMB -->|store| UQV["User Query Vector"]
-    SI -->|aggregate| UQV
-    DB -->|mappings| SE
-    DB -->|store| SE
+
+
 ```
 
 The table above shows a general architecture as to how the indexation of the semantic-based system would operate, as well as the integration of subject taggings, which will be discussed in the subsequent section. Generally, the embedding process takes the concatenated subject fields of the Description, Subject learning outcomes, Course-intended learning outcomes, Subject content, Assessments, and the faculty or discipline name and vectorises them using the text-embedding-3-large model. This vectorisation process transforms the textual information into high-dimensional vectors for each subject. Then, those embeddings are stored back into the MongoDB Atlas database under the SubjectEmbedding collection. After that, the search functionality vectorises the latest user query using the same embedding model that generated the subject embeddings. That vector is compared against MongoDB’s internal search index feature, which aggregates the results and compares them with the stored SubjectEmbedding vectors. Finally, it outputs the subjects according to rank results, ensuring that the most semantically relevant subjects are returned in that order.
